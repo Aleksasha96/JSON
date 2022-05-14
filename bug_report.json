@@ -3,14 +3,14 @@
   "Bug ID":"14865",
   "Build Number":"Version Number 5.0.1",
   "Environment":"Windows 10, Chrome",
-  "Severity":"High or 1";
-  "Priority":"High or 1";
-  "Assigned to":"Developer-X";
-  "Reported by":"Alexandra";
-  "Type":"Bug";
-  "Status":"New";
-  "Description":"Application crash on clicking the SAVE button while creating a new user";
-  "Steps to reproduce":"1 2 3 4 5";
+  "Severity":"High or 1",
+  "Priority":"High or 1",
+  "Assigned to":"Developer-X",
+  "Reported by":"Alexandra",
+  "Type":"Bug",
+  "Status":"New",
+  "Description":"Application crash on clicking the SAVE button while creating a new user",
+  "Steps to reproduce":"1 2 3 4 5",
   "Expected result":"On clicking SAVE button, should be promted to a success massage 'New User has been created successfully'",
   "Actual Result":"Application crash on clicking the SAVE button"
 }
